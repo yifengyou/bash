@@ -56,4 +56,7 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
       第25章 创建与数据库、Web及电子邮件相关的脚本 543
       第26章 一些小有意思的脚本 565
 
-##
+## 总结
+
+  1.基础永远值得花费90%的精力去学习加强。厚积而薄发~
+  2.实践的重要性
