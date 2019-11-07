@@ -1,4 +1,4 @@
-# 第1章-初识Linux_shell
+# shell简介
 
 
 ## 总结

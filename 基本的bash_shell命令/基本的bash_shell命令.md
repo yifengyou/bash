@@ -1,4 +1,4 @@
-# 第3章-基本的bash_shell命令
+# 基本的bash_shell命令
 
 ## 总结
 

@@ -1,23 +1,22 @@
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- MDTOC maxdepth:6 firsth1:1 numbering:0 flatten:0 bullets:1 updateOnSave:1 -->
 
-- [第2章-走进shell](#第2章-走进shell)
-	- [总结](#总结)
-	- [tty+pty+pts+ptmx](#ttyptyptsptmx)
-		- [tty(终端设备的统称):](#tty终端设备的统称)
-		- [pty（虚拟终端):](#pty虚拟终端)
-		- [pts/ptmx(pts/ptmx结合使用，进而实现pty):](#ptsptmxptsptmx结合使用进而实现pty)
-		- [dev目录下常见特殊文件](#dev目录下常见特殊文件)
-			- [串行端口终端(/dev/ttySn)](#串行端口终端devttysn)
-			- [伪终端(/dev/pty/)](#伪终端devpty)
-			- [控制终端(/dev/tty)](#控制终端devtty)
-			- [控制台终端(/dev/ttyn, /dev/console)](#控制台终端devttyn-devconsole)
-			- [虚拟终端(/dev/pts/n)](#虚拟终端devptsn)
-			- [其它类型](#其它类型)
-	- [setterm命令](#setterm命令)
+- [走进shell](#走进shell)   
+   - [总结](#总结)   
+   - [tty+pty+pts+ptmx](#ttyptyptsptmx)   
+      - [tty(终端设备的统称):](#tty终端设备的统称)   
+      - [pty（虚拟终端):](#pty（虚拟终端)   
+      - [pts/ptmx(pts/ptmx结合使用，进而实现pty):](#ptsptmxptsptmx结合使用，进而实现pty)   
+      - [dev目录下常见特殊文件](#dev目录下常见特殊文件)   
+         - [串行端口终端(/dev/ttySn)](#串行端口终端devttysn)   
+         - [伪终端(/dev/pty/)](#伪终端devpty)   
+         - [控制终端(/dev/tty)](#控制终端devtty)   
+         - [控制台终端(/dev/ttyn, /dev/console)](#控制台终端devttyn-devconsole)   
+         - [虚拟终端(/dev/pts/n)](#虚拟终端devptsn)   
+         - [其它类型](#其它类型)   
+   - [setterm命令](#setterm命令)   
 
-<!-- /TOC -->
-
-# 第2章-走进shell
+<!-- /MDTOC -->
+# 走进shell
 
 ## 总结
 
