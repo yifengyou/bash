@@ -38,7 +38,7 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
     * [预定义变量](docs/环境变量/预定义变量.md)
     * [标准变量](docs/环境变量/标准变量.md)
     * [特殊变量](docs/环境变量/特殊变量.md)
-    * [字符串变量](docs/环境变量/字符串变量.md)
+    * [字符串截取与拼接](docs/环境变量/字符串截取与拼接.md)
 * [bash内置命令](docs/bash内置命令.md)
     * [alias](docs/bash内置命令/alias.md)
     * [buildin](docs/bash内置命令/buildin.md)
@@ -61,6 +61,7 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
     * [umask](docs/bash内置命令/umask.md)
     * [ulimit](docs/bash内置命令/ulimit.md)
     * [getopts](docs/bash内置命令/getopts.md)
+    * [shopt](docs/bash内置命令/shopt.md)
     * [read](docs/bash内置命令/read.md)
     * [help](docs/bash内置命令/help.md)
 * [流程控制](docs/流程控制.md)
@@ -84,6 +85,7 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
     * [vim](docs/文本编辑器/vim.md)
     * [nano](docs/文本编辑器/nano.md)
     * [emacs](docs/文本编辑器/emacs.md)
+
 
 
 
