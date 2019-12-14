@@ -55,6 +55,8 @@
     * [select命令](docs/流程控制/select命令.md)
 * [函数](docs/函数.md)
 * [正则表达式与模式匹配](docs/正则表达式与模式匹配.md)
+* [处理用户输入](docs/处理用户输入.md)
+    * [处理用户输入](docs/处理用户输入.md)
 * [文本三剑客](docs/文本三剑客.md)
     * [sed](docs/文本三剑客/sed.md)
     * [gawk](docs/文本三剑客/gawk.md)
@@ -63,4 +65,3 @@
     * [vim](docs/文本编辑器/vim.md)
     * [nano](docs/文本编辑器/nano.md)
     * [emacs](docs/文本编辑器/emacs.md)
-
