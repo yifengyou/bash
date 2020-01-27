@@ -1,20 +1,33 @@
 # Linux Shell编程
 
-## 仓库介绍
+![20200127_164206_47](image/20200127_164206_47.png) 
 
-本仓库已经开始作为GitBook仓库，访问地址
+```
+Shell 是一个用 C 语言编写的程序，它是用户使用 Linux 的桥梁。Shell 既是一种命令语言，又是一种程序设计语言。
 
-<https://yifengyou.gitbooks.io/learn-shell/content/>
+Shell 是指一种应用程序，这个应用程序提供了一个界面，用户通过这个界面访问操作系统内核的服务。
 
-GitHub访问地址
+Ken Thompson 的 sh 是第一种 Unix Shell，Windows Explorer 是一个典型的图形界面 Shell。
+```
 
-<https://github.com/yifengyou/learn-shell/>
+
+
+
+## 本仓库内容
+
+1. shell脚本编程学习笔记
 
 ```
 Something I hope you know before go into the coding~
 First, please watch or star this repo, I'll be more happy if you follow me.
 Bug report, questions and discussion are welcome, you can post an issue or pull a request.
 ```
+
+## 相关站点
+
+* GitBook:<https://yifengyou.gitbooks.io/learn-shell/content/>
+* GitHub:<https://github.com/yifengyou/learn-shell/>
+* GitPage:<https://yifengyou.github.io/learn-shell/>
 
 ## 参考书目
 
