@@ -16,6 +16,7 @@ alias xzgrep='xzgrep --color=auto'
 alias zegrep='zegrep --color=auto'
 alias zfgrep='zfgrep --color=auto'
 alias zgrep='zgrep --color=auto'
+alias push='git push'
 
 
 # Proxy settings
@@ -53,3 +54,6 @@ alias zgrep='zgrep --color=auto'
 # \[\e[0m\] 重置
 # 此处设置\u 红色 \h 紫红色 \w 青蓝色 \$ 白色
 PS1='\[\e[32;1m\][\[\e[31;40m\]\u\[\e[33;40m\]@\[\e[35;40m\]\h\[\e[36;40m\] \w\[\e[32;1m\]]\[\e[37;1m\]\$\[\e[0m\] '
+
+
+
