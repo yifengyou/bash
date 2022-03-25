@@ -19,6 +19,11 @@ alias zgrep='zgrep --color=auto'
 alias push='git push'
 
 
+# History setting
+export PROMPT_COMMAND="history -a"
+export HISTTIMEFORMAT="%F %T "
+export HISTSIZE=10000
+
 # Proxy settings
 #export http_proxy='127.0.0.1:5050'
 #export https_proxy='127.0.0.1:5050'
